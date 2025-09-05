@@ -21,7 +21,7 @@
      ```
 3. Abra no navegador:  
    ```
-   http://localhost/carrinho/src/index.php
+   http://localhost/carrinho.php/index.php
    ```
 
 ---
